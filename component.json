@@ -1,7 +1,7 @@
 {
   "name": "bootstrap",
   "version": "2.2.1",
-  "main": ["./docs/assets/js/bootstrap.js", "./docs/assets/css/bootstrap.css", "./docs/assets/img/glyphicons-halflings-white.png", "./docs/assets/img/glyphicons-halflings.png"],
+  "main": ["docs/assets/js/bootstrap.js", "docs/assets/css/bootstrap.css", "docs/assets/img/glyphicons-halflings-white.png", "docs/assets/img/glyphicons-halflings.png"],
   "dependencies": {
     "jquery": "~1.8.0"
   }
